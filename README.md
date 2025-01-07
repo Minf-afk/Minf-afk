@@ -1,18 +1,20 @@
-# Olá, sou **Mateus de Santana Pereira**! 👋
+# Olá!!! Eu sou o **Mateus de Santana Pereira**! 👋
 
-### Estudante de Ciências da Computação | Desenvolvedor Web 🚀
+### Sou estudante de Ciências da Computação | Desenvolvedor Web 🚀
 
----
+<div>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minf-afk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minf-afk&layout=compact&langs_count=16&theme-dracula"/>
+ 	
+</div>
 
-## 🔥 Estatísticas do GitHub
-
-![Minf-afk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minf-afk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
----
-
-## 🏆 Linguagens mais usadas
-
-![Minf-afk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minf-afk&langs_count=10&layout=compact&theme=tokyonight)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>	
 
 ---
 
@@ -26,45 +28,8 @@ Atualmente, estou me aprofundando nas seguintes tecnologias:
 - 🚀 **Next.js**
 - ⚡ **Vite**
 
----
+##
 
-## 🛠️ Ferramentas e Tecnologias
-
-Aqui estão algumas das principais ferramentas e tecnologias que utilizo no meu dia a dia de desenvolvimento:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
----
-
-## 📈 Meu progresso
-
-Abaixo, você pode visualizar meu progresso como desenvolvedor. Fique à vontade para acompanhar meu crescimento!
-
-### 📊 Contribuições no GitHub
-
-- 🚀 **Commits**: Trabalhando ativamente em projetos para aumentar minhas contribuições.
-- 📅 **Atividade**: Busco sempre melhorar meu desempenho e aprender novas tecnologias.
-
----
-
-## 💬 Entre em contato
-
-Você pode me encontrar nas seguintes plataformas:
-
-- 📧 **Email**: [msantana.inf@gmail.com](mailto:msantana.inf@gmail.com)
-- 💼 **LinkedIn**: [Mateus Santana LinkedIn]([https://www.linkedin.com/in/minf-afk](https://www.linkedin.com/in/mateus-santana-540a48164/))
-
----
-
-## 🎯 Objetivos
-
-- 🖥️ **Aprimorar minhas habilidades** em JavaScript, React e Next.js.
-- 🌐 **Desenvolver projetos full-stack** para expandir meu portfólio.
-- 📈 **Contribuir com projetos open-source** para ganhar mais experiência em desenvolvimento colaborativo.
-
----
+<div>
+	<a href = "mailto:mmsantana.inf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.linkedin.com/in/mateus-santana-540a48164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
