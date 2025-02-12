@@ -3,7 +3,7 @@
 ### 🚀 **Desenvolvedor Web | Estudante de Ciências da Computação**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26uf6hHh6fCRKzx2Y/giphy.gif" width="250px" height="auto" />
+  <img src="https://media.giphy.com/media/xT5LMTnjs7H1c87cBA/giphy.gif" width="300px" height="auto" />
 </div>
 
 ---
