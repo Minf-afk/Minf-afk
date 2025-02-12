@@ -3,8 +3,8 @@
 ### 🚀 **Desenvolvedor Web | Estudante de Ciências da Computação**
 
 <div align="center">
-  <!-- GIF relacionado a Ciência da Computação / Algoritmos -->
-  <img src="https://media.giphy.com/media/26gR0aCxaQ5diVsD2/giphy.gif" width="300px" height="auto" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Computer_Science_Logo.svg/800px-Computer_Science_Logo.svg.png" width="300px" height="auto" />
 </div>
 
 ---
@@ -37,3 +37,5 @@
   <a href="mailto:mmsantana.inf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-santana-540a48164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/Minf-afk" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
+
