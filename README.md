@@ -1,35 +1,39 @@
-# Olá!!! Eu sou o **Mateus de Santana Pereira**! 👋
+# Olá, eu sou o **Mateus de Santana Pereira**! 👋
 
-### Sou estudante de Ciências da Computação | Desenvolvedor Web 🚀
+### 🚀 **Desenvolvedor Web | Estudante de Ciências da Computação**
 
-<div>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minf-afk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minf-afk&layout=compact&langs_count=16&theme=dark"/>
- 	
+<div align="center">
+  <img src="https://media.giphy.com/media/26uf6hHh6fCRKzx2Y/giphy.gif" width="250px" height="auto" />
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>	
 
 ---
 
-## 📚 Tecnologias que estou aprendendo
+## 🛠️ **Tecnologias que uso** 
 
-Atualmente, estou me aprofundando nas seguintes tecnologias:
+<div align="center">
+  <img alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Next.js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
+</div>
 
-- 💻 **JavaScript**
-- 🌐 **HTML5 & CSS3**
-- ⚛️ **React**
-- 🚀 **Next.js**
-- ⚡ **Vite**
+---
 
-##
+## 📊 **Estatísticas de Desenvolvimento**
 
-<div>
-	<a href = "mailto:mmsantana.inf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 	<a href="https://www.linkedin.com/in/mateus-santana-540a48164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Minf-afk&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minf-afk&layout=compact&langs_count=8&theme=radical" />
+</div>
+
+---
+
+## 📬 **Me encontre**
+
+<div align="center">
+  <a href="mailto:mmsantana.inf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mateus-santana-540a48164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Minf-afk" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
