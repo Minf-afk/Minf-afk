@@ -4,7 +4,6 @@
 
 <div align="center">
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Computer_Science_Logo.svg/800px-Computer_Science_Logo.svg.png" width="300px" height="auto" />
 </div>
 
 ---
