@@ -22,7 +22,7 @@ Tenho experiência com criação de **views, triggers, procedures, consultas com
 
 ---
 
-## **Focado: **
+## **Focado:**
 
 - Desenvolvimento com **C# e .NET**
 - Modelagem e manutenção de banco de dados **SQL Server**
